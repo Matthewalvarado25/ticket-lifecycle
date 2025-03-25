@@ -27,13 +27,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<h3>Step:1 Intake </h3>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+ The intake is the beginning of the osticket lifecycle. This is the osTicket support page where users go to create tickets
+![image](https://github.com/user-attachments/assets/56d48aa0-e1af-4694-8248-4323016d08ce)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+We will be creating tickets as end users , for this example I will be a user named Karen who needs assistance and created a SEV-A ticket where the help topic is business critical outage and the entire mobile banking system is down.
+  
 </p>
 <br />
+
+
+
+![image](https://github.com/user-attachments/assets/12ed13ad-bdc7-4333-9087-b98fcf324a09)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
