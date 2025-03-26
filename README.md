@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
   
-We will be creating tickets as end users , for this example I will be a user named Karen who needs assistance and created a SEV-A ticket where the help topic is business critical outage and the entire mobile banking system is down.
+We will be creating tickets as end users , for this example I will be a user named Karen who needs assistance and created a ticket. The help topic is business critical outage and the entire mobile banking system is down.
   
 </p>
 <br />
@@ -65,18 +65,83 @@ I also created a second ticket as a user named Ken who also needs assistance. Th
 <p>
 Now that the ticket has been created. I log in as support agent John Doe's account and check to see if any tickets are open to be worked on. 
   
-![image](https://github.com/user-attachments/assets/a3ad7e8e-1aeb-4db3-880d-480cc0cd17e4)
+![image](https://github.com/user-attachments/assets/7da3f1d7-a669-401d-ba20-6fd2dbe69dc5)
 
 
 As the support agent John Doe you will determine the severity of the situation by reading the ticket.
 If the ticket is unclear of what the problem is the agent will email the user to gather further details on the issue.
-The support agent will update the ticket to SLA (Sev-A, Sev-B, Sev-C) and assign the ticket to himself, another agent, or to another department to have the issue resolved.
+The support agent will update the ticket to SLA (Sev-A, Sev-B, Sev-C), update help topic, assign to team and assign the ticket to himself, another agent, or to another department to have the issue resolved.
   
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  
+![image](https://github.com/user-attachments/assets/8f3bab70-dd91-411b-bd86-7cadc44b81b3)
+
+When the ticket was opened support agent John updated the SLA plan to SEV-A to measure the severity of the problem
+  
 </p>
 <br />
+
+
+</p>
+<p>
+
+
+![image](https://github.com/user-attachments/assets/1c47c3f2-f40e-4023-9c12-0c0e1aa42283)
+
+Agent John next updated the Help topic 
+
+</p>
+<br />
+
+
+</p>
+<p>
+  
+![image](https://github.com/user-attachments/assets/68356621-f967-4a95-aa47-d1b2d61c6cd2)
+
+Agent John will assign the ticket to the online banking team, since he does not have access to the online banking department. We will log in as Agent Jane Doe who is a member of the online banking team and work on the ticket. 
+
+</p>
+<br />
+
+
+</p>
+<p>
+
+
+![image](https://github.com/user-attachments/assets/6532a8c1-d741-4dc3-9a75-5da032795de4)
+
+Instead of having the ticket assigned to the online banking team, Agent Jane will assign it to herself.
+
+
+<h3>Step:3 Working the issue </h3>
+
+<p>
+While working the issue, support agent Jane should constantly be updating the ticket thread with troubleshooting that has been done, and any new information that has been obtained
+
+![image](https://github.com/user-attachments/assets/9678f5b4-ed18-45a4-a0b2-8d341454ccba)
+
+
+<h3>Step:4 Resolution </h3>
+
+<p>
+  
+At this point, the issue has been addressed and a solution has been confirmed.The support agent Jane Doe will now confirm with the user Karen that the issue has been resolved after the implementation of the solution. If the solution presented by the support agent John Doe does not fix the issue, then the agent will go back to troubleshooting and working the issue to find another solution. Once confirmed that the solution works, support agent Jane Doe will now document any details that have not already been noted, then set the ticket status to "Closed".
+
+</p>
+<br />
+
+
+</p>
+<p>
+
+
+
+![image](https://github.com/user-attachments/assets/6a7eed61-b9f0-428d-991f-b2ef3764f90f)
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -86,8 +151,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
