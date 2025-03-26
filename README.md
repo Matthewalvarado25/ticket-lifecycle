@@ -50,12 +50,6 @@ We will be creating tickets as end users , for this example I will be a user nam
 </p>
 <p>
   
-I also created a second ticket as a user named Ken who also needs assistance. The help topic is general inquiry/other and accounting department needs help accessing adobe reader. (You will see at times users might not give the best clarification on an issue based on the example below).
-
-
-  
-
-![image](https://github.com/user-attachments/assets/6479d9c1-1494-4449-934d-2e4ae95ad0a9)
 
 </p>
 <br />
@@ -151,11 +145,16 @@ At this point, the issue has been addressed and a solution has been confirmed. T
 ![image](https://github.com/user-attachments/assets/f8613113-678a-4930-9c42-49eb33532f52)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/user-attachments/assets/5ac737f7-c9c1-46ce-87eb-14fbef00c887)
+
+
+
 </p>
 <br />
 
+<h3>Hopefully you now have a better understanding of the ticket life-cycle and of the tasks you will face working in this job.</h3>
 
