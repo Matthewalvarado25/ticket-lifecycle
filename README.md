@@ -128,7 +128,7 @@ While working the issue, support agent Jane should constantly be updating the ti
 
 <p>
   
-At this point, the issue has been addressed and a solution has been confirmed.The support agent Jane Doe will now confirm with the user Karen that the issue has been resolved after the implementation of the solution. If the solution presented by the support agent John Doe does not fix the issue, then the agent will go back to troubleshooting and working the issue to find another solution. Once confirmed that the solution works, support agent Jane Doe will now document any details that have not already been noted, then set the ticket status to "Closed".
+At this point, the issue has been addressed and a solution has been confirmed. The support agent Jane Doe will now confirm with the user Karen that the issue has been resolved after the implementation of the solution. If the solution presented by the support agent John Doe does not fix the issue, then the agent will go back to troubleshooting and working the issue to find another solution. Once confirmed that the solution works, support agent Jane Doe will now document any details that have not already been noted, then set the ticket status to "Closed".
 
 </p>
 <br />
