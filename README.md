@@ -156,5 +156,5 @@ At this point, the issue has been addressed and a solution has been confirmed. T
 </p>
 <br />
 
-<h3>Hopefully you now have a better understanding of the ticket life-cycle and of the tasks you will face working in this job.</h3>
+<h3> You have successfully closed out your first ticket. Hopefully you now have a better understanding of the ticket life-cycle and of the tasks you will face working on the job.</h3>
 
