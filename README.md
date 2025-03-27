@@ -122,7 +122,7 @@ While working the issue, support agent Jane should constantly be updating the ti
 
 <p>
   
-At this point, the issue has been addressed and a solution has been confirmed. The support agent Jane Doe will now confirm with the user Karen that the issue has been resolved after the implementation of the solution. If the solution presented by the support agent Jane Doe does not fix the issue, then the agent will go back to troubleshooting and working the issue to find another solution. Once confirmed that the solution works, support agent Jane Doe will now document any details that have not already been noted, then set the ticket status to "Closed".
+At this point, the issue has been addressed and a solution has been confirmed. The support agent Jane Doe will now confirm with the user that the issue has been resolved after applying the solution. Once confirmed that the solution works, agent Jane Doe will now document any details that have not already been noted, then set the ticket status to "Closed".
 
 </p>
 <br />
@@ -145,6 +145,8 @@ At this point, the issue has been addressed and a solution has been confirmed. T
 ![image](https://github.com/user-attachments/assets/f8613113-678a-4930-9c42-49eb33532f52)
 
 <p>
+
+Click close , and the ticket will be successfully closed. 
 
 </p>
 <p>
