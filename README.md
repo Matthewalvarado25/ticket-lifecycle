@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h3>Step:1 Intake </h3>
+<h3> Intake </h3>
 
 <p>
   
@@ -54,7 +54,7 @@ We will be creating tickets as end users , for this example I will be a user nam
 </p>
 <br />
 
-<h3>Step:2 Assignment and Communication </h3>
+<h3> Assignment and Communication </h3>
 
 <p>
 Now that the ticket has been created. I log in as support agent John Doe's account and check to see if any tickets are open to be worked on. 
@@ -110,7 +110,7 @@ Agent John will assign the ticket to the online banking team, since he does not 
 Instead of having the ticket assigned to the online banking team, Agent Jane will assign it to herself.
 
 
-<h3>Step:3 Working the issue </h3>
+<h3> Working the issue </h3>
 
 <p>
 While working the issue, support agent Jane should constantly be updating the ticket thread with troubleshooting that has been done, and any new information that has been obtained
@@ -118,7 +118,7 @@ While working the issue, support agent Jane should constantly be updating the ti
 ![image](https://github.com/user-attachments/assets/9678f5b4-ed18-45a4-a0b2-8d341454ccba)
 
 
-<h3>Step:4 Resolution </h3>
+<h3> Resolution </h3>
 
 <p>
   
